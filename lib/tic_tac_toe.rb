@@ -37,7 +37,8 @@ class TicTacToe
        puts " X | O | O "
   end
   
-  def 
+  def input_to_index
+    
 
 
   
