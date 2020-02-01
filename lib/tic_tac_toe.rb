@@ -46,8 +46,13 @@ class TicTacToe
   end
   
   def position_taken?
-    
-    
+    if !position_taken?(board, index)
+      true
+    else
+      false
+  end
+  
+  def 
     
 
   
