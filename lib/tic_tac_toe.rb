@@ -29,7 +29,8 @@ class TicTacToe
   end
   
   def display_board
-    
+    if board = ["X", "X", "X", "X", "O", "O", "X", "O", "O"]
+      puts 
 
 
   
