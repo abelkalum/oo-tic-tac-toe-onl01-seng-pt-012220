@@ -30,7 +30,12 @@ class TicTacToe
   
   def display_board
     if board = ["X", "X", "X", "X", "O", "O", "X", "O", "O"]
-      puts 
+       puts " X | O | X "
+       puts "-----------"
+       puts " O | X | X "
+       puts "-----------"
+       puts " O | X | O "
+end
 
 
   
