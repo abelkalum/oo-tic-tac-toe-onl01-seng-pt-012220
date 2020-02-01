@@ -45,7 +45,9 @@ class TicTacToe
     board[index] = value
   end
   
-  
+  def position_taken?
+    
+    
     
 
   
