@@ -28,7 +28,8 @@ class TicTacToe
     ]
   end
   
-  def 
+  def display_board
+    
 
 
   
